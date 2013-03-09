@@ -87,7 +87,7 @@ are discarded. Let's have each player take four more turns...
 The game starts to require strategy as players pursue their own method of 
 claiming as many roads as possible. Is it best to go for the big score and draw
 cards until you the cards add up to 5 * the cost? Or is it better to claim 
-cards greedily, every time you are able? 
+roads greedily, every time you are able? 
 
 The game ends when all roads have been claimed. The winner is the person 
 who claimed the most roads (and therefore will sell the most knives).
